@@ -22,4 +22,4 @@ It leverages recent advantages in Bayesian Optimization, Meta-learning and ensem
 
 3) Model Building using ML - Using ML/Dl Algorithms.
 
-4) Model Building using Auto ML.
+4) Model Building using Auto ML. 
